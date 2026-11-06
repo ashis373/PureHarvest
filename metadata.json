@@ -1,0 +1,6 @@
+{
+  "name": "VedicRasoi - Pure Ghee, Authentic Spices & Fresh Vegetables",
+  "description": "Premium single-page product storefront for pure bilona ghee, cold-pressed cooking oils, stone-ground Indian spices, and daily farm-fresh vegetables with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
